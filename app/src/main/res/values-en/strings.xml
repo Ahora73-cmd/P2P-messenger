@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P2P Messenger</string>
+    <string name="title_nearby">Nearby</string>
+
+    <string name="status_listening">Waiting for a connection</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_idle">Not connected</string>
+    <string name="status_connected">Connected to %1$s</string>
+    <string name="peer_unknown">Device</string>
+    <string name="hint_permission">Allow Nearby devices access</string>
+    <string name="hint_bluetooth_off">Turn on Bluetooth</string>
+
+    <string name="cd_show_me">Make me visible</string>
+    <string name="cd_find_devices">Find devices</string>
+    <string name="cd_disconnect">Disconnect</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_refresh">Refresh search</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_send">Send</string>
+
+    <string name="empty_title">Quiet for now</string>
+    <string name="empty_body">Open the app on two phones, connect, and say hello. No internet, no sign-up.</string>
+    <string name="action_grant">Allow Bluetooth</string>
+    <string name="action_enable_bt">Turn on Bluetooth</string>
+    <string name="action_find">Find devices</string>
+
+    <string name="composer_hint">Message…</string>
+    <string name="system_connected">Connected. Time for a chat ☕</string>
+
+    <string name="sheet_title">Who is nearby</string>
+    <string name="sheet_body">Both phones need Bluetooth on and visibility enabled. Tap a name to connect.</string>
+    <string name="sheet_empty_title">No devices yet</string>
+    <string name="sheet_empty_body">Tap “Make me visible” on the other phone.</string>
+    <string name="action_show_me">Make me visible</string>
+    <string name="device_unknown">Unnamed device</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme">Theme</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="settings_language">Language</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+
+    <string name="err_no_bluetooth">Bluetooth is not available on this device</string>
+    <string name="err_enable_bluetooth">Turn on Bluetooth and come back to the app</string>
+    <string name="err_permission">Nearby devices permission is required</string>
+    <string name="err_bonded_list">Cannot access the device list</string>
+    <string name="err_visibility">No permission to make this device visible</string>
+    <string name="err_visibility_failed">Could not enable visibility</string>
+    <string name="err_scan_permission">No permission to search for devices</string>
+    <string name="err_scan_failed">Search did not start</string>
+    <string name="err_scan_lost">Lost access to device search</string>
+    <string name="err_connect_permission">No permission to connect</string>
+    <string name="err_bad_address">Invalid device address</string>
+    <string name="err_connect_failed">Could not connect. Make sure the app is open on the other phone.</string>
+    <string name="err_connect_revoked">Bluetooth permission was revoked</string>
+    <string name="err_server">Could not open a communication channel</string>
+    <string name="err_send_failed">Message not sent — connection lost</string>
+    <string name="err_connect_first">Connect to a device first</string>
+    <string name="info_disconnected">Disconnected. Waiting for a new connection.</string>
+    <string name="toast_permission">Please allow Nearby devices first</string>
+</resources>

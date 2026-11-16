@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P2P Messenger</string>
+    <string name="title_nearby">Рядом</string>
+
+    <string name="status_listening">Ожидание подключения</string>
+    <string name="status_connecting">Подключение…</string>
+    <string name="status_idle">Не подключено</string>
+    <string name="status_connected">Связь с %1$s</string>
+    <string name="peer_unknown">Устройство</string>
+    <string name="hint_permission">Разрешите «Устройства рядом»</string>
+    <string name="hint_bluetooth_off">Включите Bluetooth</string>
+
+    <string name="cd_show_me">Показать меня</string>
+    <string name="cd_find_devices">Найти устройства</string>
+    <string name="cd_disconnect">Отключиться</string>
+    <string name="cd_settings">Настройки</string>
+    <string name="cd_refresh">Обновить поиск</string>
+    <string name="cd_close">Закрыть</string>
+    <string name="cd_send">Отправить</string>
+
+    <string name="empty_title">Пока тихо</string>
+    <string name="empty_body">Откройте приложение на двух телефонах, подключитесь и напишите друг другу. Без интернета и регистрации.</string>
+    <string name="action_grant">Разрешить Bluetooth</string>
+    <string name="action_enable_bt">Включить Bluetooth</string>
+    <string name="action_find">Найти устройства</string>
+
+    <string name="composer_hint">Сообщение…</string>
+    <string name="system_connected">Соединение установлено. Можно просто поболтать ☕</string>
+
+    <string name="sheet_title">Кто рядом</string>
+    <string name="sheet_body">Оба телефона должны быть с включённым Bluetooth и видимостью. Нажмите на имя — подключимся.</string>
+    <string name="sheet_empty_title">Пока никого не нашли</string>
+    <string name="sheet_empty_body">Нажмите «Показать меня» на втором телефоне.</string>
+    <string name="action_show_me">Показать меня</string>
+    <string name="device_unknown">Устройство без имени</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="settings_theme">Тема</string>
+    <string name="theme_system">Системная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="settings_language">Язык</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+
+    <string name="err_no_bluetooth">На этом устройстве нет Bluetooth</string>
+    <string name="err_enable_bluetooth">Включите Bluetooth и вернитесь в приложение</string>
+    <string name="err_permission">Нужно разрешение «Устройства рядом»</string>
+    <string name="err_bonded_list">Нет доступа к списку устройств</string>
+    <string name="err_visibility">Нет разрешения на видимость устройства</string>
+    <string name="err_visibility_failed">Не удалось включить видимость</string>
+    <string name="err_scan_permission">Нет разрешения на поиск устройств</string>
+    <string name="err_scan_failed">Поиск не запустился</string>
+    <string name="err_scan_lost">Нет доступа к поиску устройств</string>
+    <string name="err_connect_permission">Нет разрешения на подключение</string>
+    <string name="err_bad_address">Неверный адрес устройства</string>
+    <string name="err_connect_failed">Не получилось подключиться. Проверьте, что приложение открыто на другом телефоне.</string>
+    <string name="err_connect_revoked">Разрешение на подключение отозвано</string>
+    <string name="err_server">Не удалось открыть канал связи</string>
+    <string name="err_send_failed">Сообщение не ушло — связь прервалась</string>
+    <string name="err_connect_first">Сначала подключитесь к устройству</string>
+    <string name="info_disconnected">Соединение прервано. Снова ждём подключения.</string>
+    <string name="toast_permission">Сначала дайте разрешение «Устройства рядом»</string>
+</resources>
